@@ -2,4 +2,4 @@
 
 To run the app on c9.io:
 
-`ruby app.py -p $PORT -o $IP`
+`ruby app.rb -p $PORT -o $IP`
